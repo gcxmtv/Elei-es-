@@ -1,0 +1,8 @@
+{
+  "name": "Apuração Eleitoral TSE - Painel Oficial em Tempo Real",
+  "description": "Dashboard jornalístico em tempo real para acompanhamento da apuração de votos com dados oficiais do TSE, resiliência CORS e base auditada consolidada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
